@@ -12,7 +12,7 @@ for the next population... [read more.](https://www.dropbox.com/s/kqc22ki2edjtt0
 * `eca.m` : ECA function with parameters
 	* `fobj`: Objective function
 	* `D`: Problem dimension (design variables)
-	* `K`: K-masses for generation center of mass
+	* `K`: K-masses for generating center of mass
 	* `N`: Population size (K = 2KD is suggested)
 	* `eta_max`: Stepsize
 * `center_of_mass.m`: Calculate the center of mass
